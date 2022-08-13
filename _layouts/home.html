@@ -1,0 +1,18 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<font size="+20"> Home </font>
+<br>
+
+<p> I am a postdoctoral researcher at the Biostatistics Department and School of Medicine at the Johns Hopkins University. I work with <a href="https://publichealth.jhu.edu/faculty/784/scott-l-zeger">Dr. Scott Zeger</a> on longitudinal causal inference methodology to account for patient heterogeneity, with applications in Scleroderma and SARS-CoV-2, and <a href="https://www.hopkinsmedicine.org/profiles/details/zheyu-wang"> Dr. Zheyu Wang</a> on Bayesian latent variable modeling of progression in the Alzheimer's Disease. I received my Ph.D. training in Biostatistics with <a href="https://vivo.brown.edu/display/jhogansc">Dr. Joseph W. Hogan</a> at Brown University.</p>
+<p> My research focuses on the development of innovative Bayesian latent variable modeling, statistical ensemble learning, and causal inference methods for electronic health records. Applications involve infectious and chronic diseases such as HIV, Scleroderma, Alzheimer’s disease, and SARS-CoV-2.  </p>
+<p> Here is my <a href="/assets/pdffiles/myCV.pdf">CV</a>.
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
