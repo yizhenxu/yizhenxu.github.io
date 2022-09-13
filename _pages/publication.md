@@ -22,7 +22,7 @@ author_profile: true
 
 1. **Yizhen Xu**, Jisoo Kim, Ami Shah, Scott Zeger. Causal Framework for Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models with Longitudinal Data: studying the effect of Mycophenolate on Scleroderma. <a href="/assets/Talk_slides/YX_JSM_2022.pdf">[talk]</a>.
 
-2. **Yizhen Xu**, Jisoo Kim, Ami Shah, Aki Nishimura, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
+2. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
 
 3. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="https://arxiv.org/abs/2105.09254"> [paper] </a>
 
@@ -32,7 +32,8 @@ author_profile: true
 
 ### Collaborative (Published or Submitted)
 
-1. Tao Liu<sup>\*</sup>, Joseph W Hogan, Michael J Daniels, Mia Coetzer, **Yizhen Xu**, Gerald Bove, Allison K Delong, Lauren Ledingham, Millicent Orido, Lameck Diero, Rami Kantor (2017). Improved HIV-1 Viral Load Monitoring Capacity Using Pooled Testing With Marker-Assisted Deconvolution. *Journal ofAcquired Immune Deficiency Syndromes*, 75(5), 580-587.
+1. Tao Liu<sup>\*</sup>, Joseph W Hogan, Michael J Daniels, Mia Coetzer, **Yizhen Xu**, Gerald Bove, Allison K Delong, Lauren Ledingham, Millicent Orido, Lameck Diero, Rami Kantor (2017). Improved HIV-1 Viral Load Monitoring Capacity Using Pooled Testing With Marker-Assisted Deconvolution. *Journal of
+Acquired Immune Deficiency Syndromes*, 75(5), 580-587.
 
 2. Becky L. Genberg, Joseph W. Hogan, **Yizhen Xu**, Monicah Nyambura, Caren Tarus, Elyne Rotich, Catherine Kafu, Juddy Wachira, Suzanne Goodrich, Paula Braitstein<sup>\*</sup> (2019). Population-based estimates of engagement in HIV care and mortality using double-sampling methods following home-based counseling and testing in western Kenya. *PLOS ONE*.
 
