@@ -26,7 +26,7 @@ author_profile: true
 
 3. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="https://arxiv.org/abs/2105.09254"> [paper] </a>
 
-4. **Yizhen Xu**, Zheyu Wang. Biomarker assessment and probabilistic clustering under shared latent variable model with an application to Alzheimer’s disease.
+4. **Yizhen Xu**, Zheyu Wang. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
 5. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
 
