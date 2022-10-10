@@ -14,7 +14,7 @@ author_profile: true
 
 ### Submitted
 
-1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Inference for BART with Multinomial Outcomes. *Submitting to Journal of Computational and Graphical Statistics*. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="https://arxiv.org/abs/2101.06823"> [paper] </a>
+1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *Submitting to Journal of Computational and Graphical Statistics*. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
 
 2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *Submitted to Journal of American Statistical Association*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
