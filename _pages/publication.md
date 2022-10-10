@@ -24,7 +24,7 @@ author_profile: true
 
 2. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
 
-3. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="https://arxiv.org/abs/2105.09254"> [paper] </a>
+3. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
 4. **Yizhen Xu**, Zheyu Wang. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
 
