@@ -20,7 +20,8 @@ author_profile: true
 
 ### Work in progress
 
-1. **Yizhen Xu**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Framework for Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models with Longitudinal Data: studying the effect of Mycophenolate on Scleroderma. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
+1. **Yizhen Xu**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
+Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
 
 2. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
 
