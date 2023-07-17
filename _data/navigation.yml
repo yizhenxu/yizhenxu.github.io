@@ -8,8 +8,8 @@ main:
     url: /Publications/
   - title: "Talks"
     url: /Talks/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Collaborations"
+    url: /Collaborations/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
