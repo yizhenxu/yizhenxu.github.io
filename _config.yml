@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Baltimore, MD"
+locale                   : "Salt Lake City, UT"
 title                    : "Yizhen Xu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yizhen Xu"
-description              : "Postdoctoral Researcher in Biostatistics"
+description              : "Assistant Professor in the Division of Biostatistics, Department of Population Health Sciences"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Yizhen Xu"
   avatar           : "/assets/images/bio-photo2.jpg"
-  bio              : "Postdoctoral Researcher <br> Department of Biostatistics <br> Johns Hopkins University"
-  location         : "Baltimore, MD"
-  email            : "yxu143@jhu.edu"
+  bio              : "Assistant Professor <br> Division of Biostatistics <br> Department of Population Health Sciences <br> University of Utah"
+  location         : "Salt Lake City, UT"
+  email            : "u6050801@umail.utah.edu"
   #linkedin         : "yizhen-xu-45513857/"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:yxu143@jhu.edu"
+      # url: "mailto:u6050801@umail.utah.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
