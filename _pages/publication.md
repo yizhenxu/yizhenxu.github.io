@@ -14,22 +14,22 @@ author_profile: true
 
 ### Submitted
 
-1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *Submitting to Journal of Computational and Graphical Statistics*. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
+1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *Under Review at Journal of Computational and Graphical Statistics*. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
 
-2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *Submitted to Journal of American Statistical Association*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
+2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
+
+3. **Yizhen Xu**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
+Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Submitted to Biometrics*. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
 
 ### Work in progress
 
-1. **Yizhen Xu**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
-Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
+1. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
 
-2. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
+2. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-3. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+3. **Yizhen Xu**, Zheyu Wang. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
 
-4. **Yizhen Xu**, Zheyu Wang. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
-
-5. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
+4. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
 
 ### Collaborative (Published or Submitted)
 
@@ -42,6 +42,7 @@ Acquired Immune Deficiency Syndromes*, 75(5), 580-587.
 
 4. Mary G Bowring, Zitong Wang, **Yizhen Xu**, Joshua Betz, John Muschelli, Brian T Garibaldi, Scott L Zeger<sup>\*</sup> (2021). Outcome-Stratified Analysis of Biomarker Trajectories for Patients Infected With Severe Acute Respiratory Syndrome Coronavirus 2. *American Journal of Epidemiology*, 190(10), 2094-2106.
 
-5. Tao Liu<sup>\*</sup>, Joseph W Hogan, Wanning Su, **Yizhen Xu**, Michael J Daniels, Kantor Rami. Informed Pooled Testing with Quantitative Assays. *Submitted*. <a href="https://arxiv.org/abs/2011.00404"> [paper] </a>
+5. Stephanie M Delong, **Yizhen Xu**, Paula Braitstein, Monicah Nyambura, Samson Ndege, Suzanne Goodrich, Caren Tarus, Joseph W Hogan, Becky L Genberg. Population-based estimates and predictors of child and adolescent linkage to HIV care or death in western Kenya. *JAIDS*, 2023.
+
+6. Tao Liu<sup>\*</sup>, Joseph W Hogan, Wanning Su, **Yizhen Xu**, Michael J Daniels, Kantor Rami. Informed Pooled Testing with Quantitative Assays. *Submitted*. <a href="https://arxiv.org/abs/2011.00404"> [paper] </a>
  
-6. Stephanie M Delong, **Yizhen Xu**, Paula Braitstein, Monicah Nyambura, Samson Ndege, Suzanne Goodrich, Caren Tarus, Joseph W Hogan, Becky L Genberg. Population-based estimates and predictors of child and adolescent linkage to HIV care or death in western Kenya. *Submitted*.
