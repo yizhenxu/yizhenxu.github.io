@@ -23,8 +23,9 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 2. **Yizhen Xu**, Zheyu Wang*. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
 
-3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
+4. **Yizhen Xu**, Jisoo Kim*, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *In submission*. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
 
 ### Work in progress
 
