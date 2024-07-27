@@ -6,7 +6,7 @@ comments: true
 author_profile: true
 ---
 
-\* Corresponding author; \# Equal contribution.
+\* Corresponding author; \# Equal contribution; bolded First author.
 
 ### Methodological
 
@@ -14,22 +14,23 @@ author_profile: true
 
 2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *In press at Journal of Computational and Graphical Statistics*, 2024. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
 
-3. **Yizhen Xu**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
+3. **Yizhen Xu<sup>\*</sup>**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
 Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Accepted at Biometrics*. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
 
-### Submitted
+### To be Submitted / Submitted
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu**, Zheyu Wang. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
+2. **Yizhen Xu<sup>\*</sup>**, Zheyu Wang*. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
+
+3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+
 
 ### Work in progress
 
 1. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
 
-2. Amir Ghassami<sup>\#</sup>, Numair Sani<sup>\#</sup>, **Yizhen Xu<sup>\#</sup>**, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
-
-3. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
+2. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
 
 ### Collaborative (Published or Submitted)
 
