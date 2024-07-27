@@ -10,12 +10,12 @@ author_profile: true
 
 ### Methodological
 
-1. **Yizhen Xu<sup>\*</sup>**, Tao Liu, Michael J Daniels, Rami Kantor, Ann Mwangi, Joseph W Hogan (2019). Classification using Ensemble Learning under Weighted Misclassification Loss. *Statistics in Medicine*, 38(11), 2002-2012.  **(Student paper award, ASA Section on Risk Analysis, 2017)** <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045125/"> [paper] </a>
+1. **Yizhen Xu<sup>\*</sup>**, Tao Liu, Michael J Daniels, Rami Kantor, Ann Mwangi, Joseph W Hogan. Classification using Ensemble Learning under Weighted Misclassification Loss. *Statistics in Medicine*, 38(11), 2002-2012, 2019.  **(Student paper award, ASA Section on Risk Analysis, 2017)** <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045125/"> [paper] </a>
 
-2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *In press at Journal of Computational and Graphical Statistics*, 2024. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
+2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *Journal of Computational and Graphical Statistics*, In press, 2024. **(Student paper award, Applied Statistics Symposium, 2020)** <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
 
 3. **Yizhen Xu<sup>\*</sup>**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
-Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Accepted at Biometrics*. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
+Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Biometrics, Accepted, 2024*. <a href="/assets/pdffiles/Scleroderma.pdf">[paper]</a>.
 
 ### To be Submitted / Submitted
 
