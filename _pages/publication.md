@@ -8,7 +8,7 @@ author_profile: true
 
 \* Corresponding author; \# Equal contribution; bolded First author.
 
-### Methodological
+### Methodological (Peer-reviewed)
 
 1. **Yizhen Xu<sup>\*</sup>**, Tao Liu, Michael J Daniels, Rami Kantor, Ann Mwangi, Joseph W Hogan. Classification using Ensemble Learning under Weighted Misclassification Loss. *Statistics in Medicine*, 38(11), 2002-2012, 2019.  (Student paper award, ASA Section on Risk Analysis, 2017) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045125/"> [paper] </a>
 
@@ -23,7 +23,7 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 2. **Yizhen Xu**, Zheyu Wang*. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
 
-3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Submitted to the Journal of the American Statistical Association*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
 4. **Yizhen Xu<sup>\#</sup>**, Ji Soo Kim<sup>\#\*</sup>, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *In submission*.
 
