@@ -21,11 +21,11 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu**, Zheyu Wang*. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
+2. **Yizhen Xu**, Zheyu Wang\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Under review at the Biostatistics Journal*. <a href="/assets/pdffiles/ZW1.pdf">[paper]</a>.
 
-3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Submitted to the Journal of the American Statistical Association*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-4. **Yizhen Xu<sup>\#</sup>**, Ji Soo Kim<sup>\#\*</sup>, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *In submission*.
+4. Ji Soo Kim<sup>\#, **Yizhen Xu<sup>\#</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to IEEE Journal of Biomedical and Health Informatics*.
 
 ### Work in progress
 
