@@ -25,13 +25,15 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 3. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-4. Ji Soo Kim\#</sup>, **Yizhen Xu<sup>\#</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to IEEE Journal of Biomedical and Health Informatics*.
+4. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to IEEE Journal of Biomedical and Health Informatics*.
 
 ### Work in progress
 
-1. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.
+<!--1. **Yizhen Xu**, Brian Garibaldi, Scott Zeger. Subgroup Treatment Evaluation using Multivariate Generalized Mixed Effect Models for Longitudinal Competing Risks Outcomes: Evaluation of Ventilation Effectiveness on Patients with Severe Acute Respiratory Syndrome Coronavirus 2. <a href="/assets/Talk_slides/YX_JSM_2021.pdf">[talk]</a>.-->
 
-2. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
+1. **Yizhen Xu**, Zheyu Wang. Semi-supervised learning in biomarker assessment under shared latent variable model for the classification of preclinical Alzheimer’s disease.
+   
+2. Bayesian Regression Tree for Compositional Outcomes. 
 
 ### Collaborative (Published or Submitted)
 
