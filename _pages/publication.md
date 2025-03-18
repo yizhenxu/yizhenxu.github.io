@@ -25,7 +25,7 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to IEEE Journal of Biomedical and Health Informatics*.
+3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to BMC Medical Research Methodology*.
 
 ### Work in progress
 
