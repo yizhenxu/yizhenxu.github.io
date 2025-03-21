@@ -17,7 +17,7 @@ author_profile: true
 3. **Yizhen Xu<sup>\*</sup>**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
 Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Biometrics*, Accepted, 2024. <a href="https://doi.org/10.1093/biomtc/ujae100">[paper]</a>.
 
-4. **Yizhen Xu**, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, Accepted, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
+4. **Yizhen Xu**, Scott Zeger, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, Accepted, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
 
 ### To be Submitted / Submitted
 
