@@ -23,9 +23,9 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission to Biometrika*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Submitted to BMC Medical Research Methodology*.
+3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *In submission to Statistics in Medicine*.
 
 ### Work in progress
 
