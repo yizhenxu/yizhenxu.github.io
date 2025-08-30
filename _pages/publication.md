@@ -15,17 +15,17 @@ author_profile: true
 2. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Rami Kantor, Ann Mwangi. Augmentation Samplers for Multinomial Probit Bayesian Additive Regression Trees. *Journal of Computational and Graphical Statistics*, 1–19, 2024. https://doi.org/10.1080/10618600.2024.2388605. (Student paper award, Applied Statistics Symposium, 2020) <a href="/assets/pdffiles/MPBART_samplers.pdf"> [paper] </a>
 
 3. **Yizhen Xu<sup>\*</sup>**, Jisoo Kim, Ami Shah, Laura Hummers, Scott Zeger. Causal Inference using Multivariate Generalized Linear
-Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Biometrics*, Accepted, 2024. <a href="https://doi.org/10.1093/biomtc/ujae100">[paper]</a>.
+Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolate on Scleroderma. *Biometrics*, 2024. <a href="https://doi.org/10.1093/biomtc/ujae100">[paper]</a>.
 
-4. **Yizhen Xu**, Scott Zeger, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, Accepted, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
+4. **Yizhen Xu**, Scott Zeger, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
 
 ### To be Submitted / Submitted
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *In submission to Biometrika*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Under review at Biometrika*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
-3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *In submission to Statistics in Medicine*.
+3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Under review at Statistics in Medicine*.
 
 ### Work in progress
 
