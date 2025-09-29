@@ -23,7 +23,7 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Under review at Biometrika*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
+2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Under review at Electronic Journal of Statistics*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
 3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Under review at Statistics in Medicine*.
 
@@ -48,5 +48,4 @@ Acquired Immune Deficiency Syndromes*, 75(5), 580-587.
 
 5. Stephanie M Delong<sup>\*</sup>, Yizhen Xu, Paula Braitstein, Monicah Nyambura, Samson Ndege, Suzanne Goodrich, Caren Tarus, Joseph W Hogan, Becky L Genberg. Population-based estimates and predictors of child and adolescent linkage to HIV care or death in western Kenya. *JAIDS*, 2023.
 
-6. Tao Liu<sup>\*</sup>, Joseph W Hogan, Wanning Su, Yizhen Xu, Michael J Daniels, Kantor Rami. Informed Pooled Testing with Quantitative Assays. *Submitted*. <a href="https://arxiv.org/abs/2011.00404"> [paper] </a>
- 
+6. G. Caleb Alexander, Yizhen Xu, Xuya Xiao, Sydney V. Lewis, Scott Zeger, Hemalkumar B Mehta. Weight changes from glucagon-like peptide-1 receptor agonist (GLP-1) use and discontinuation: a retrospective cohort study of electronic health records. *Obesity*, 2025.
