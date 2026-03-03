@@ -19,7 +19,7 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 4. **Yizhen Xu**, Scott Zeger, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
 
-5. **Ji Soo Kim<sup>\#</sup>**, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Under review at Statistics in Medicine*. 
+5. **Ji Soo Kim<sup>\#</sup>**, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Statistics in Medicine*, 2025. 
 
 ### To be Submitted / Submitted
 
