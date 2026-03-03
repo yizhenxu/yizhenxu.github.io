@@ -19,13 +19,13 @@ Mixed-Effects Models with Longitudinal Data: Studying the Effect of Mycophenolat
 
 4. **Yizhen Xu**, Scott Zeger, Zheyu Wang<sup>\*</sup>. Probabilistic Clustering using Shared Latent Variable Model for Assessing  Alzheimer’s Disease Biomarkers. *Biostatistics*, 2025. <a href="https://doi.org/10.1093/biostatistics/kxaf010">[paper]</a>.
 
+5. **Ji Soo Kim<sup>\#</sup>**, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Under review at Statistics in Medicine*. 
+
 ### To be Submitted / Submitted
 
 1. **Yizhen Xu<sup>\*</sup>**, Joseph W. Hogan, Michael J. Daniels, Ann Mwangi, Tao Liu, Rami Kantor. Bayesian Framework for Predictive and Causal Modeling with Application to the HIV Care Cascade. *In submission*. <a href="/assets/pdffiles/draft w author details.pdf">[paper]</a>.
 
-2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Under review at Electronic Journal of Statistics*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
-
-3. Ji Soo Kim<sup>\#</sup>, **Yizhen Xu<sup>\#\*</sup>**, Rachel Wallwork, Laura Hummers, Ami Shah, Scott Zeger. Probabilistic Clustering of Scleroderma Longitudinal Pulmonary Trajectories. *Under review at Statistics in Medicine*.
+2. **Yizhen Xu<sup>\#</sup>**, Numair Sani<sup>\#</sup>, Amir Ghassami<sup>\#\*</sup>, Ilya Shpitser. Multiply Robust Causal Mediation Analysis with Continuous Treatments. *Under review at Journal of Causal Inference*. <a href="/assets/pdffiles/Mediation.pdf"> [paper] </a>
 
 ### Work in progress
 
